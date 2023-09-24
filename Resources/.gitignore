@@ -1,0 +1,12 @@
+# file skip
+scene_grid.json
+
+# folder
+Tool/*.json
+Tool/AllExcel/*
+Tool/FoundExcel/*
+Tool/Patches/
+.idea/
+
+# file
+!ExcelGC.json
